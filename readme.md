@@ -13,5 +13,5 @@ Fancy project to recognize pokemon on Android device.
 
 ### Assignment
 - Khánh (https://github.com/dqkqd): Deep learning methods.
-- Châu (https://github.com/1415259): Machine learning methods.
+- Châu (https://github.com/quizmark): Machine learning methods.
 - Thy (https://github.com/thilove98): Android demonstration.
