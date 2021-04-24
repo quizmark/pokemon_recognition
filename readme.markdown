@@ -4,9 +4,6 @@ Fancy project to recognize pokemon on Android device.
 
 ![](classification/demo.png)
 
-#### Video
-
-
 ### Organization
 
 - `download.sh` download Pokemons dataset;
